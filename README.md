@@ -9,6 +9,16 @@
 
 <h2>Projects</h2>
 
+<ol>
+<li><b> Bagel: </b> The Bagel game is a simple number-guessing game where the player tries to guess a secret number. After each guess, the program gives hints based on how close the guess is to the actual number:
+  <ul>
+<li>"Pico": One digit is correct but in the wrong position.</li>
+<li>"Fermi": One digit is correct and in the correct position.</li>
+<li>"Bagels": No digits are correct.</li>
+  </ul>
+</li>
+</ol>
+
 <h2>Purpose</h2>
 
 <p> The aim of this repository is to document my learning journey through Python and demonstrate practical implementations of core concepts, including:
